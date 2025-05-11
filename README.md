@@ -26,6 +26,9 @@ docker compose logs -f producer
 ```bash 
 docker compose logs -f consumer
 ```
-
+- To stop containers and clean up 
+```bash 
+docker compose down -v
+```
 
 
