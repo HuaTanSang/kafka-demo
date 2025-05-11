@@ -1,6 +1,6 @@
 # A Kafka demo using Docker 
 ## Overview 
-This repository is that creating a demo of Kafka producer and Kafka consumer with Docker. Kafka-producer will send lines of data in `data.csv` file, which was created by `data_generator.py`. The consumer will receive data and save as DataFrame. 
+This repository is that creating a demo of Kafka producer and Kafka consumer with Docker. Kafka-producer will send lines of data in `data.csv` file, which was created by `csv_generator.py`. The consumer will receive data and save as DataFrame. 
 ## Prerequistes
 - Docker 
 - Docker Compose 
